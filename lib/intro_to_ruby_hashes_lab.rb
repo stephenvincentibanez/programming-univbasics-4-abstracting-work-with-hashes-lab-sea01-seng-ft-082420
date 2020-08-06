@@ -1,5 +1,5 @@
 def my_hash_creator(key, value)
- my_hash={1=>2}
+ my_hash={:name=>"Grace Hopper"}
  return my_hash
 end
 
